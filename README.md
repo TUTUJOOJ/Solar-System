@@ -11,7 +11,7 @@
 
 * [About](#About)
    * [Installation](#Installation)
-   * [How to use](#How to use)
+   * [How_to_Use](#How_to_Use)
    * [Technologies](#Technologies)
 
 #About
@@ -44,7 +44,7 @@ After building the project, you can launch it:
 Open the project in Unreal Engine 5.4 as described in step 3.
 Click "Run" or "Play" to start the project :).
 
-#How to use
+#How_to_Use
 1-Open the Project: Launch Unreal Engine 5.4 and open the project.
 
 2-Select the Level: In the Content Browser, navigate to the folder containing the level files. Locate and select the level named "Solar System."
